@@ -1,0 +1,3 @@
+[submodule "dhtml5_player"]
+	path = dhtml5_player
+	url = https://github.com/arkenidar/dhtml5_player
